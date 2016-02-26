@@ -1,0 +1,31 @@
+$ubuntu: 'Ubuntu', sans-serif;
+$open: 'Open Sans Condensed', sans-serif;
+
+body {
+    background: #eee;
+}
+
+h1 {
+    font-family: $ubuntu;
+    font-size: 60px;
+}
+
+header {
+    margin-bottom: 80px;
+    margin-top: 20px;
+}
+
+article {
+    text-align: right;
+    font-family: $open;
+    margin-bottom: 100px;
+    h3 {
+        font-size: 28px;
+    }
+}
+
+footer {
+    font-family: $ubuntu;
+    font-size: 16px;
+    text-align: right;
+}
