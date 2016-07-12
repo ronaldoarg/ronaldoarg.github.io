@@ -1,0 +1,48 @@
+<footer class="site-footer">
+    <div class="wrapper">
+        <div class="footer-col-wrapper">
+
+            <div class="footer-col-social">
+                <ul class="social-media-list">
+
+                    {% if site.vimeo_username %}
+                        <li>
+                            <i class="fa fa-vimeo"></i>
+                            <a href="https://vimeo.com/{{ site.vimeo_username }}" target="_blank">
+                                <span class="username"> &nbsp; /{{ site.vimeo_username }}</span>
+                            </a>
+                        </li>
+                    {% endif %}
+
+                    {% if site.twitter_username %}
+                        <li>
+                            <i class="fa fa-twitter"></i>
+                            <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank">
+                                <span class="username"> &nbsp; /{{ site.twitter_username }}</span>
+                            </a>
+                        </li>
+                    {% endif %}
+
+                    {% if site.instagram_username %}
+                        <li>
+                            <i class="fa fa-instagram"></i>
+                            <a href="https://instagram.com/{{ site.instagram_username }}" target="_blank">
+                                <span class="username"> &nbsp; /{{ site.instagram_username }}</span>
+                            </a>
+                        </li>
+                    {% endif %}
+
+                </ul>
+            </div>
+
+            <div class="footer-col-title">
+                <ul class="contact-list">
+                    <li>{{ site.title }}</li>
+                    <li>{{ site.email }}</li>
+                    <li>{{ site.phone }}</li>
+                </ul>
+            </div>
+
+        </div>
+    </div>
+</footer>

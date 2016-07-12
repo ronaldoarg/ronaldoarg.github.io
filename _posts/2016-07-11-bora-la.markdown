@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Bora Lá"
+date:   2016-07-07 22:50:21 -0300
+categories: installation
+image: /images/bora-la.png
+---
+
+<iframe src="https://player.vimeo.com/video/174264150" width="90%" height="380" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br/>
+
+Fortalecer o relação afetiva entre os indivíduo e os espaços urbanos. Esse é o convite que a instalação interativa faz ao público local. Assim, não podendo se utilizar de outra linguagem a não ser a da própria terra, mistura viva de referências urbanas e regionais, se juntando com a fuleragem cearense de transformar tudo em diversão fica difícil não visualizar como esse convite é feito: BORA LÁ
+
+A instalação interativa consiste em respostas visuais por meio de fita de *LEDs* colocadas nas correntes dos balanços que são ligadas de acordo com o balancear das pessoas. Veja como foi todo o processo de desenvolvimento no blog [medium.com/@farol.equipe](http://www.medium.com/@farol.equipe)
+
+BORA LÁ é uma instalação interativa realizada por Ronaldo Aragão, Mauany Alencar e Lucas Balthazar em 2016 de forma independente na cidade de Fortaleza - Ceará.
