@@ -8,7 +8,7 @@ permalink: /about/
 
 --
 
-**RONALDO ARAGÃO** is a multimedia artist currently based in Fortaleza, Brazil. Militant of digital culture, have interest in Interactive Art Installations, Web Development and Internet of Things and is enthusiast of open sources softwares and hardwares.
+**RONALDO ARAGÃO** is a multimedia artist currently based in Fortaleza, Brazil. He's militant of digital culture, has interest in Interactive Art Installations, Web Development and Internet of Things and he's enthusiast of open sources softwares and hardwares.
 <br/>
 <br/>
 
