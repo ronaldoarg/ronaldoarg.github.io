@@ -11,13 +11,17 @@ url: "ronaldoarg.github.io" # the base hostname & protocol for your site
 
 # Social settings
 email: ronaldoarg@gmail.com
-phone: +55 85 997667456
+phone: +55 85 998230685
 twitter_username: ronaldoarg
 github_username:  ronaldoarg
 instagram_username:  ronaldoarg
 vimeo_username:  ronaldoarg
 youtube_username:  ronaldoarg
+linkedin_username:  in/ronaldoarg
 
 # Build settings
 markdown: kramdown
 permalink: /:title/
+
+# Encoding
+encoding: utf-8
