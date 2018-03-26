@@ -6,7 +6,7 @@ categories: web
 image: /images/testes-animados.jpg
 ---
 
-[![Testes Animados](/images/testes-animados-inside.png "Testes Animados")](http://www.animadoszoo.com.br/quizsustentavel/)
+[![Testes Animados](/images/testes-animados-inside.jpg "Testes Animados")](http://www.animadoszoo.com.br/quizsustentavel/)
 
 Animados Zoo é uma marca de biscoitos voltada pra crianças presente em vários estados do Brasil.
 

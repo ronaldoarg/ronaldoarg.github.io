@@ -6,7 +6,7 @@ categories: web
 image: /images/carlos-farias.jpg
 ---
 
-[![Carlos Farias Fotografia](/images/carlos-farias-inside.png "Carlos Farias Fotografia")](http://www.carlosfariasfotografia.com.br)
+[![Carlos Farias Fotografia](/images/carlos-farias-inside.jpg "Carlos Farias Fotografia")](http://www.carlosfariasfotografia.com.br)
 
 "Acredito que menos é mais em quase tudo na vida e tento colocar sentimento em meu trabalho" diz Carlos Farias, fotógrafo radicado em Fortaleza - Ceará.
 
