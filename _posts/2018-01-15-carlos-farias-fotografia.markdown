@@ -2,7 +2,7 @@
 layout: post
 title:  "Carlos Farias Fotografia"
 date:   2018-01-15 18:00:00 -0300
-categories: web
+categories: website
 image: /images/carlos-farias.jpg
 ---
 
