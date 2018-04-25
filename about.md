@@ -14,7 +14,7 @@ Gosto de música, cinema e futebol.
 
 I'm **RONALDO ARAGÃO**, a digital product designer, focused in web development, based in Fortaleza, Brazil. Work actually with Front End Development, User Experience and Digital Marketing. 
 
-But I have interest in Data Science, Interactive Art Installations and IoT.
+And I have interest in Data Science, Interactive Art Installations and IoT.
 
 I like music, movies and love soccer.
 
