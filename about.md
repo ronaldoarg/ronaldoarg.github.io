@@ -12,7 +12,7 @@ Gosto de música, cinema e futebol.
 
 --
 
-Hi, I'm ** RONALDO ARAGÃO **, I work for 5 years with web development. I have a degree in Systems and Digital Media from the Federal University of Ceará - UFC, which has made me a hybrid professional, joining development, design and UX. I am currently a Front End Developer at Dextra Digital in Campinas, SP.
+Hi, I'm **RONALDO ARAGÃO**, I work for 5 years with web development. I have a degree in Systems and Digital Media from the Federal University of Ceará - UFC, which has made me a hybrid professional, joining development, design and UX. I am currently a Front End Developer at Dextra Digital in Campinas, SP.
 
 Also I have interest in Data Science, Interactive Art Installations and IoT.
 
